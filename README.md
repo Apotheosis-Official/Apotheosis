@@ -1,12 +1,12 @@
 
-### [Offical Docs](https://disnode.readme.io/docs)
+### [Offical Docs](https://disnodeteam.com/docs/)
 
 ### Getting Started:
 
 #### Installing
 `npm install disnode --save && npm install`
 ##### Bot Config
-Make a file called Bot-Config.json in `/bots` and fill it in with your bots information
+Make a file called BotConfig.json and fill it in with your bots information
 ```json
   {
   "key": "Bot Token Here",
