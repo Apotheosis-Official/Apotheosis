@@ -13,21 +13,6 @@ class TestPlugin {
     }
   }
 
-  // default (command) {
-  //   var self = this;
-  //
-  //   self.disnode.bot.SendCompactEmbed("219014202512113664", ":warning: Attention.", "Apotheosis will be offline until further notice. More information here: https://discord.gg/6G4Paj6")
-  //   self.disnode.bot.SendCompactEmbed("268251138841772032", ":warning: Attention.", "Apotheosis will be offline until further notice. More information here: https://discord.gg/6G4Paj6")
-  //   self.disnode.bot.SendCompactEmbed("306189057065484289", ":warning: Attention.", "Apotheosis will be offline until further notice. More information here: https://discord.gg/6G4Paj6")
-  //   self.disnode.bot.SendCompactEmbed("327287207444611073", ":warning: Attention.", "Apotheosis will be offline until further notice. More information here: https://discord.gg/6G4Paj6")
-  //   self.disnode.bot.SendCompactEmbed("330476643040886784", ":warning: Attention.", "Apotheosis will be offline until further notice. More information here: https://discord.gg/6G4Paj6")
-  //   self.disnode.bot.SendCompactEmbed("336983162154647552", ":warning: Attention.", "Apotheosis will be offline until further notice. More information here: https://discord.gg/6G4Paj6")
-  //   self.disnode.bot.SendCompactEmbed("345094248233697293", ":warning: Attention.", "Apotheosis will be offline until further notice. More information here: https://discord.gg/6G4Paj6")
-  //   self.disnode.bot.SendCompactEmbed("351170062708768769", ":warning: Attention.", "Apotheosis will be offline until further notice. More information here: https://discord.gg/6G4Paj6")
-  //
-  //
-  //
-  // }
 
 }
 //made by Aiir
