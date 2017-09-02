@@ -1,6 +1,7 @@
 {
-  "key":"BOTKEY",
-  "prefix":"PREFIX",
+  "key":"Token",
+  "prefix":"Prefix",
+  "ownerid": ["Your ID]
   "preload": false,
   "shardCount": 0,
   "db": {
